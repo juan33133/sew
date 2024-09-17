@@ -13,8 +13,17 @@ h1 {
   text-align: center;     
   }
 
-footer{
+p{
   text-align: center;
+}
+
+footer{
+  display: flex;
+  width: 100vw ;
+  height: 100px;
+  
+  justify-content: space-around;
+  
 }
 
 
